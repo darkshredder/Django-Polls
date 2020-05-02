@@ -1,3 +1,3 @@
 # Django-Polls
-#Polling app
+# Polling app
 ## Create questions and polls through admin portal by creating superuser
